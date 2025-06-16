@@ -8,8 +8,8 @@ from cryptopay import CryptoPay
 
 load_dotenv()
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CRYPTOBOT_TOKEN = os.getenv("CRYPTOBOT_TOKEN")
+BOT_TOKEN = os.getenv("8023564597:AAEMLDG7EKvhGRBQjivkNTsnnqbF-DjnHDw")
+CRYPTOBOT_TOKEN = os.getenv("413842:AAA2dmXOmEJpdlStqZpkvI564dsUDch7mda")
 SUPPORT_LINK = os.getenv("SUPPORT_LINK", "https://t.me/hamonasa")
 
 bot = Bot(token=BOT_TOKEN)
