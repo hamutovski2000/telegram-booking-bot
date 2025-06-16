@@ -1,5 +1,5 @@
 
 aiogram==2.25.2
 python-dotenv
-cryptopay==1.1.0
+cryptopay==0.1.3
     
